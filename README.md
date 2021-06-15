@@ -1,5 +1,7 @@
 # console_game
-java -jar Run'n'Cry.jar Game figures:
+java -jar RunCry.jar
+
+Game figures:
 
 Player is black 'o' symbol.
 
